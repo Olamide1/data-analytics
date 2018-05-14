@@ -1,0 +1,16 @@
+{
+  "name": "data-analytics",
+  "version": "1.0.0",
+  "description": "For Analytics in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "analytics",
+    "in",
+    "js"
+  ],
+  "author": "Olamide Akomolafe",
+  "license": "ISC"
+}
